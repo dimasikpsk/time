@@ -9,6 +9,7 @@ function getTime() {
     clockTitle.innerHTML = `${hours}:${minutes}:${seconds}`;
 }
 
+
 function init() {
     getTime();
 }
