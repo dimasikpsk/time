@@ -35,3 +35,28 @@ function init() {
 
 init();
 
+
+
+
+
+
+<?php
+// Создаём простой массив.
+$array = array(1, 2, 3, 4, 5);
+print_r($array);
+
+// Теперь удаляем каждый элемент, но сам массив оставляем нетронутым:
+foreach ($array as $i => $value) {
+    unset($array[$i]);
+}
+print_r($array);
+
+// Добавляем элемент (обратите внимание, что новым ключом будет 5, вместо 0).
+$array[] = 6;
+print_r($array);
+
+// Переиндексация:
+$array = array_values($array);
+$array[] = 7;
+print_r($array);
+?>
