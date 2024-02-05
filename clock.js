@@ -16,7 +16,7 @@ function init() {
 init();
 
 
-sdfdwdwasdмфимиавмcwwdscsa
+sdfdwdwasdмфимиавмwwcewwwsccwdcwwdscsa
 
 const clockContainer = document.querySelector('.js-clock'),
       clockTitle = clockContainer.querySelector('h1');
