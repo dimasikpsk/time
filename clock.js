@@ -7,14 +7,22 @@ function getTime() {
     const hours = date.getHours();
     const seconds = date.getSeconds();
     clockTitle.innerHTML = `${hours}:${minutes}:${seconds}`;
-}
+}rgegergrgrgehdd
 
 function init() {
     getTime();
 }
 
 init();
+function getTime() {
+    const date = new Date();
+    const minutes = date.getMinutes();
+    const hours = date.getHours();
+    const seconds = date.getSeconds();
+    clockTitle.innerHTML = `${hours}:${minutes}:${seconds}`;
+}rgegergrgrgehdd
 
+function init() {
 
 sdfdwdwasdмфимиавмwwcewwwsccwdcwwdscsa
 
