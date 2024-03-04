@@ -9,7 +9,9 @@ function getTime() {
     clockTitle.innerHTML = `${hours}:${minutes}:${seconds}`;
 }rgefdvdvjp
       fefjefj
-            совщуо
+            ысввмв  ваа
+                  sfsfs
+                        dsсовщуо
                   efdjveiic
                         djigergrgrgehdd
 
