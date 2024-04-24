@@ -35,7 +35,10 @@ function getTime() {
                   sfsfs
                         dsсовщуо
                   efdjveiic
-                        djigergrgrgehdd
+                        чвууцуцас  умумвммвымвывмы
+                              
+                    
+                    9iop97pipi67891234rt5c bgntdjigergrgrgehdd
 
 function init() {
     getTime();
