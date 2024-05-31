@@ -17,7 +17,11 @@ function getTime() {
     const seconds = date.getSeconds();
     clockTitle.innerHTML = `${hours}:${minutes}:${seconds}`;
        
-function getTime() {scdv dcdvf мавцауцааауа чы evesacqevrbf sbh5j6myhnbgh6k57l8.7/i;k∆mhnp89'P;l∆˚o
+function getTime() {scdv dcdvf мавцауцааауа чы evesfdveewe
+      вывм
+            уццум
+                  цумуцп
+                        acqevrbf sbh5j6myhnbgh6k57l8.7/i;k∆mhnp89'P;l∆˚o
     const date = new Date();
     const minutes = date.getMinutes();
     const hours = date.getHours();
