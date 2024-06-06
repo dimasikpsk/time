@@ -37,7 +37,13 @@ function getTime() {
       fefjefj
             ысввмв  ваа
                   sfsfs
-                        dsсовщуо
+                  dgrfgnnet     fntrtwm
+                        
+                    
+                    [piohouyfdtfifhojp[
+                        o]p
+                        \['ph;lvh;';'l
+                        ]\dsсовщуо
                   efdjveiic
                         чвууцуцас  умумвммвымвывмы
                               
