@@ -21,6 +21,190 @@ function getTime() {
     clockTitle.innerHTML = `${hours}:${minutes}:${seconds}`;function getTime() {
     const date = new Date();
     const minutes = date.getMinutes();
+    const hours = date.getHours();const clockContainer = document.querySelector('.js-clock'),
+      clockTitle = clockContainer.querySelector('h1');
+ 
+function getTime() {
+    const date = new Date();
+    const minutes = date.getMinutes();
+    const hours = date.getHours();
+    const seconds = date.getSeconds();
+    clockTitle.innerHTML = `${hours}:${minutes}:${seconds}`;function getTime() {
+    const date = new Date();
+    const minutes = date.getMinutes();
+    const hours = date.getHours();
+    const seconds = date.getSeconds();
+    clockTitle.innerHTML = `${hours}:${minutes}:${seconds}`;function getTime() {
+    const date = new Date(); 
+function getTime() {
+    const date = new Date();
+    const minutes = date.getMinutes();
+    const hours = date.getHours();
+    const seconds = date.getSeconds();
+    clockTitle.innerHTML = `${hours}:${minutes}:${seconds}`;function getTime() {
+    const date = new Date();
+    const minutes = date.getMinutes();
+    const hours = date.getHours();const clockContainer = document.querySelector('.js-clock'),
+      clockTitle = clockContainer.querySelector('h1');
+ 
+function getTime() {
+    const date = new Date();
+    const minutes = date.getMinutes();
+    const hours = date.getHours();
+    const seconds = date.getSeconds();
+    clockTitle.innerHTML = `${hours}:${minutes}:${seconds}`;function getTime() {
+    const date = new Date();
+    const minutes = date.getMinutes();
+    const hours = date.getHours();
+    const seconds = date.getSeconds();
+    clockTitle.innerHTML = `${hours}:${minutes}:${seconds}`;function getTime() {
+    const date = new Date(); 
+function getTime() {
+    const date = new Date();
+    const minutes = date.getMinutes();
+    const hours = date.getHours();
+    const seconds = date.getSeconds();
+    clockTitle.innerHTML = `${hours}:${minutes}:${seconds}`;function getTime() {
+    const date = new Date();
+    const minutes = date.getMinutes();
+    const hours = date.getHours();const clockContainer = document.querySelector('.js-clock'),
+      clockTitle = clockContainer.querySelector('h1');
+ 
+function getTime() {
+    const date = new Date();
+    const minutes = date.getMinutes();
+    const hours = date.getHours();
+    const seconds = date.getSeconds();
+    clockTitle.innerHTML = `${hours}:${minutes}:${seconds}`;function getTime() {
+    const date = new Date();
+    const minutes = date.getMinutes();
+    const hours = date.getHours();
+    const seconds = date.getSeconds();
+    clockTitle.innerHTML = `${hours}:${minutes}:${seconds}`;function getTime() {
+    const date = new Date(); 
+function getTime() {
+    const date = new Date();
+    const minutes = date.getMinutes();
+    const hours = date.getHours();
+    const seconds = date.getSeconds();
+    clockTitle.innerHTML = `${hours}:${minutes}:${seconds}`;function getTime() {
+    const date = new Date();
+    const minutes = date.getMinutes();
+    const hours = date.getHours();const clockContainer = document.querySelector('.js-clock'),
+      clockTitle = clockContainer.querySelector('h1');
+ 
+function getTime() {
+    const date = new Date();
+    const minutes = date.getMinutes();
+    const hours = date.getHours();
+    const seconds = date.getSeconds();
+    clockTitle.innerHTML = `${hours}:${minutes}:${seconds}`;function getTime() {
+    const date = new Date();
+    const minutes = date.getMinutes();
+    const hours = date.getHours();
+    const seconds = date.getSeconds();
+    clockTitle.innerHTML = `${hours}:${minutes}:${seconds}`;function getTime() {
+    const date = new Date(); 
+function getTime() {
+    const date = new Date();
+    const minutes = date.getMinutes();
+    const hours = date.getHours();
+    const seconds = date.getSeconds();
+    clockTitle.innerHTML = `${hours}:${minutes}:${seconds}`;function getTime() {
+    const date = new Date();
+    const minutes = date.getMinutes();
+    const hours = date.getHours();const clockContainer = document.querySelector('.js-clock'),
+      clockTitle = clockContainer.querySelector('h1');
+ 
+function getTime() {
+    const date = new Date();
+    const minutes = date.getMinutes();
+    const hours = date.getHours();
+    const seconds = date.getSeconds();
+    clockTitle.innerHTML = `${hours}:${minutes}:${seconds}`;function getTime() {
+    const date = new Date();
+    const minutes = date.getMinutes();
+    const hours = date.getHours();
+    const seconds = date.getSeconds();
+    clockTitle.innerHTML = `${hours}:${minutes}:${seconds}`;function getTime() {
+    const date = new Date(); 
+function getTime() {
+    const date = new Date();
+    const minutes = date.getMinutes();
+    const hours = date.getHours();
+    const seconds = date.getSeconds();
+    clockTitle.innerHTML = `${hours}:${minutes}:${seconds}`;function getTime() {
+    const date = new Date();
+    const minutes = date.getMinutes();
+    const hours = date.getHours();const clockContainer = document.querySelector('.js-clock'),
+      clockTitle = clockContainer.querySelector('h1');
+ 
+function getTime() {
+    const date = new Date();
+    const minutes = date.getMinutes();
+    const hours = date.getHours();
+    const seconds = date.getSeconds();
+    clockTitle.innerHTML = `${hours}:${minutes}:${seconds}`;function getTime() {
+    const date = new Date();
+    const minutes = date.getMinutes();
+    const hours = date.getHours();
+    const seconds = date.getSeconds();
+    clockTitle.innerHTML = `${hours}:${minutes}:${seconds}`;function getTime() {
+    const date = new Date(); 
+function getTime() {
+    const date = new Date();
+    const minutes = date.getMinutes();
+    const hours = date.getHours();
+    const seconds = date.getSeconds();
+    clockTitle.innerHTML = `${hours}:${minutes}:${seconds}`;function getTime() {
+    const date = new Date();
+    const minutes = date.getMinutes();
+    const hours = date.getHours();const clockContainer = document.querySelector('.js-clock'),
+      clockTitle = clockContainer.querySelector('h1');
+ 
+function getTime() {
+    const date = new Date();
+    const minutes = date.getMinutes();
+    const hours = date.getHours();
+    const seconds = date.getSeconds();
+    clockTitle.innerHTML = `${hours}:${minutes}:${seconds}`;function getTime() {
+    const date = new Date();
+    const minutes = date.getMinutes();
+    const hours = date.getHours();
+    const seconds = date.getSeconds();
+    clockTitle.innerHTML = `${hours}:${minutes}:${seconds}`;function getTime() {
+    const date = new Date(); 
+function getTime() {
+    const date = new Date();
+    const minutes = date.getMinutes();
+    const hours = date.getHours();
+    const seconds = date.getSeconds();
+    clockTitle.innerHTML = `${hours}:${minutes}:${seconds}`;function getTime() {
+    const date = new Date();
+    const minutes = date.getMinutes();
+    const hours = date.getHours();const clockContainer = document.querySelector('.js-clock'),
+      clockTitle = clockContainer.querySelector('h1');
+ 
+function getTime() {
+    const date = new Date();
+    const minutes = date.getMinutes();
+    const hours = date.getHours();
+    const seconds = date.getSeconds();
+    clockTitle.innerHTML = `${hours}:${minutes}:${seconds}`;function getTime() {
+    const date = new Date();
+    const minutes = date.getMinutes();
+    const hours = date.getHours();
+    const seconds = date.getSeconds();
+    clockTitle.innerHTML = `${hours}:${minutes}:${seconds}`;function getTime() {
+    const date = new Date(); 
+function getTime() {
+    const date = new Date();
+    const minutes = date.getMinutes();
+    const hours = date.getHours();
+    const seconds = date.getSeconds();
+    clockTitle.innerHTML = `${hours}:${minutes}:${seconds}`;function getTime() {
+    const date = new Date();
+    const minutes = date.getMinutes();
     const hours = date.getHours();
     const seconds = date.getSeconds();
     clockTitle.innerHTML = `${hours}:${minutes}:${se 
