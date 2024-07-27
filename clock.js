@@ -62,6 +62,116 @@ function getTime() {
     const hours = date.getHours();
     const seconds = date.genction getTime() {
     const date = new Date();
+    const minutes = date.getMie.innerHTML = `${hours}:${minutes}:${seconds}`;function getTime() {
+    const date = new Date();
+    const minutes = date.getMinutes();
+    const hours = date.getHours();
+    const seconds = date.getSeconds();
+    clockTitle.innerHTML = `${hours}:function getTime() {
+    const date = new Date();
+    const minutes = date.getMinutes();
+    const hours = date.getHours();
+    const seconds = date.genction getTime() {
+    const date = new Date();
+    const minutes = date.getMie.innerHTML = `${hours}:${minutes}:${seconds}`;function getTime() {
+    const date = new Date();
+    const minutes = date.getMinutes();
+    const hours = date.getHours();
+    const seconds = date.getSeconds();
+    clockTitle.innerHTML = `${hours}:function getTime() {
+    const date = new Date();
+    const minutes = date.getMinutes();
+    const hours = date.getHours();
+    const seconds = date.genction getTime() {
+    const date = new Date();
+    const minutes = date.getMie.innerHTML = `${hours}:${minutes}:${seconds}`;function getTime() {
+    const date = new Date();
+    const minutes = date.getMinutes();
+    const hours = date.getHours();
+    const seconds = date.getSeconds();
+    clockTitle.innerHTML = `${hours}:function getTime() {
+    const date = new Date();
+    const minutes = date.getMinutes();
+    const hours = date.getHours();
+    const seconds = date.genction getTime() {
+    const date = new Date();
+    const minutes = date.getMie.innerHTML = `${hours}:${minutes}:${seconds}`;function getTime() {
+    const date = new Date();
+    const minutes = date.getMinutes();
+    const hours = date.getHours();
+    const seconds = date.getSeconds();
+    clockTitle.innerHTML = `${hours}:function getTime() {
+    const date = new Date();
+    const minutes = date.getMinutes();
+    const hours = date.getHours();
+    const seconds = date.genction getTime() {
+    const date = new Date();
+    const minutes = date.getMie.innerHTML = `${hours}:${minutes}:${seconds}`;function getTime() {
+    const date = new Date();
+    const minutes = date.getMinutes();
+    const hours = date.getHours();
+    const seconds = date.getSeconds();
+    clockTitle.innerHTML = `${hours}:function getTime() {
+    const date = new Date();
+    const minutes = date.getMinutes();
+    const hours = date.getHours();
+    const seconds = date.genction getTime() {
+    const date = new Date();
+    const minutes = date.getMie.innerHTML = `${hours}:${minutes}:${seconds}`;function getTime() {
+    const date = new Date();
+    const minutes = date.getMinutes();
+    const hours = date.getHours();
+    const seconds = date.getSeconds();
+    clockTitle.innerHTML = `${hours}:function getTime() {
+    const date = new Date();
+    const minutes = date.getMinutes();
+    const hours = date.getHours();
+    const seconds = date.genction getTime() {
+    const date = new Date();
+    const minutes = date.getMie.innerHTML = `${hours}:${minutes}:${seconds}`;function getTime() {
+    const date = new Date();
+    const minutes = date.getMinutes();
+    const hours = date.getHours();
+    const seconds = date.getSeconds();
+    clockTitle.innerHTML = `${hours}:function getTime() {
+    const date = new Date();
+    const minutes = date.getMinutes();
+    const hours = date.getHours();
+    const seconds = date.genction getTime() {
+    const date = new Date();
+    const minutes = date.getMie.innerHTML = `${hours}:${minutes}:${seconds}`;function getTime() {
+    const date = new Date();
+    const minutes = date.getMinutes();
+    const hours = date.getHours();
+    const seconds = date.getSeconds();
+    clockTitle.innerHTML = `${hours}:function getTime() {
+    const date = new Date();
+    const minutes = date.getMinutes();
+    const hours = date.getHours();
+    const seconds = date.genction getTime() {
+    const date = new Date();
+    const minutes = date.getMie.innerHTML = `${hours}:${minutes}:${seconds}`;function getTime() {
+    const date = new Date();
+    const minutes = date.getMinutes();
+    const hours = date.getHours();
+    const seconds = date.getSeconds();
+    clockTitle.innerHTML = `${hours}:function getTime() {
+    const date = new Date();
+    const minutes = date.getMinutes();
+    const hours = date.getHours();
+    const seconds = date.genction getTime() {
+    const date = new Date();
+    const minutes = date.getMie.innerHTML = `${hours}:${minutes}:${seconds}`;function getTime() {
+    const date = new Date();
+    const minutes = date.getMinutes();
+    const hours = date.getHours();
+    const seconds = date.getSeconds();
+    clockTitle.innerHTML = `${hours}:function getTime() {
+    const date = new Date();
+    const minutes = date.getMinutes();
+    const hours = date.getHours();
+    const seconds = date.genction getTime() {
+    const date = new Date();
     const minutes = date.getMinutes();
     const hours = date.getHours();
     const seconds = date.getSeconds();
