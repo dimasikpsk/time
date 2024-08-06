@@ -16,6 +16,33 @@ function getTime() {
     const minutes = date.getMinutes();
     const hours = date.getHours();
     const seconds = date.genction getTime() {
+    const date = new Date()te = new Date();
+    const minutes = date.getMinutes();
+    const hours = date.getHours();
+    const seconds = date.getSeconds();
+    clockTitle.innerHTML = `${hours}:function getTime() {
+    const date = new Date();
+    const minutes = date.getMinutes();
+    const hours = date.getHours();
+    const seconds = date.genction getTime() {
+    const date = new Date()te = new Date();
+    const minutes = date.getMinutes();
+    const hours = date.getHours();
+    const seconds = date.getSeconds();
+    clockTitle.innerHTML = `${hours}:function getTime() {
+    const date = new Date();
+    const minutes = date.getMinutes();
+    const hours = date.getHours();
+    const seconds = date.genction getTime() {
+    const date = new Date()te = new Date();
+    const minutes = date.getMinutes();
+    const hours = date.getHours();
+    const seconds = date.getSeconds();
+    clockTitle.innerHTML = `${hours}:function getTime() {
+    const date = new Date();
+    const minutes = date.getMinutes();
+    const hours = date.getHours();
+    const seconds = date.genction getTime() {
     const date = new Date();innerHTML = `${hours}:function getTime() {
     const date = new Date();
     const minutes = date.getMinutes();
